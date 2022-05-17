@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jujumarcelly
-- 👀 I’m interested in 
+- 👋 Eu me chamo  @Jujumarcelly
+- 👀 sou estudante do 1° ano do novo ensino médio, estou estudando sobre programação na matéria de pensamento computacional
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 insta: @marcelly_jm
 
 <!---
 Jujumarcelly/Jujumarcelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
